@@ -1,4 +1,4 @@
- # Hey, i'm Swarna Sutra Dhar 👋
+ # Hey, i'm Swarna Sutra Dhar https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 ![]( )
 
  <h4>I am a Web designer. I love my work very much and am very responsible towards my work. I study in computer science and engineering.</h4> 
