@@ -14,7 +14,7 @@ Skills:  HTML / CSS/JS/PHP
 - ⚡ Fun fact: want to enjoy the inner joy of coding 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' padding='8px 12px' background='#00B2EB' >](https://github.com/swarna38)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/swarna/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100090162834089&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/swarna )  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' padding='8px 12px' background='red' >](https://github.com/swarna38)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/swarna/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100090162834089&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/swarna )  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarna38)](https://github.com/anuraghazra/github-readme-stats)
 
