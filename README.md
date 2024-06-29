@@ -21,7 +21,6 @@
 
 
 <br/>
-<h3>Say hi on social media -</h3>
  
 
 
